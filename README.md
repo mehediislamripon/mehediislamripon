@@ -9,7 +9,7 @@
 </p>
 
 My name is **Mehedi Islam Ripon**, and I'm a Front **End Web Developer**. An enthusiast of technology, always enjoys coding, like to solve programming problems. I have interested in thinking/develop web-related modules or functionality and always try to find out new ideas. I have 1.5 years of experience in Web Development and Design.
-I live in Dinajpur, Bangladesh. I am currently studying at Aptouch Polytechnic Institute, Dinajpur in Computer Technology. Before completed SSC from Cheradangi High School.
+I live in <a href="https://goo.gl/maps/Z5vs4t8646kmjCQv9">  Dinajpur, Bangladesh </a>. I am currently studying at Aptouch Polytechnic Institute, Dinajpur in Computer Technology. Before completed SSC from Cheradangi High School.
 
 In the tech community, I try to help people by sharing my knowledge. I love to read the tech-related articles & to play Mini Militia during my free time.
 
