@@ -15,6 +15,6 @@ In the tech community, I try to help people by sharing my knowledge. I love to r
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MehedilslamRipon)](https://github.com/MehedilslamRipon/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&count_private=true)
 
 <img src="https://camo.githubusercontent.com/7d040be1aae672e6ab3da339107039d7cc98c8c7/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f646576656c6f7065722e676966" alt="Mehedi Islam Ripon">
