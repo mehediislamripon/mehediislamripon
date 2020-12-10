@@ -15,7 +15,7 @@ I live in <a href="https://goo.gl/maps/Z5vs4t8646kmjCQv9">  Dinajpur, Bangladesh
 
 In the tech community, I try to help people by sharing my knowledge. I love to read the tech-related articles & to play video games during my free time.
 
-<img src="https://camo.githubusercontent.com/7d040be1aae672e6ab3da339107039d7cc98c8c7/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f646576656c6f7065722e676966" alt="Mehedi Islam Ripon">
+<img src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" width="100%" height="550" alt="Mehedi Islam Ripon">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehedilslamRipon)](https://github.com/MehedilslamRipon/github-readme-stats)
 ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&theme=)
