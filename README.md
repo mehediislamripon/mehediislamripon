@@ -9,6 +9,13 @@ In the tech community, I try to help people by sharing my knowledge. I love to r
 ##  Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<details open>
+<summary> <h2>MY GITHUB STATS:</h2> </summary>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&theme=cobalt&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MehedilslamRipon&hide=java&theme=cobalt">
+</p>
+</details>
 
 ## 📫 HOW TO REACH ME:
 
@@ -20,18 +27,4 @@ In the tech community, I try to help people by sharing my knowledge. I love to r
 <a href="https://stackoverflow.com/users/10423770/mehedi-islam-ripon"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Mehedi Islam Ripon"></a>
 </p>
 
-<details open>
-<summary> <h2>My Github Stats:</h2> </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&theme=cobalt&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MehedilslamRipon&hide=java&theme=cobalt">
-</p>
-</details>
-
-
-
 <img src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" alt="Mehedi Islam Ripon">
-
-
-
