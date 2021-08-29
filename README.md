@@ -190,7 +190,7 @@ const mehedi = {
 </p>
 
 ---
-	
+
 ### ⚙️ Things I use to get stuff done:
 - OS: Windows 11, Linux mint (cinnamon)
 - Machine: ASUS VivoBook 15 X512FJ
@@ -202,6 +202,12 @@ const mehedi = {
 	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="MehedilslamRipon's typeracer Scorecard">
 	<br/>
   	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
+</details>
+<details>
+  <summary> 🎧 I'm Listening Now:</summary>
+	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="MehedilslamRipon's Spotify status">
+</a>
 </details>
   
   ---
