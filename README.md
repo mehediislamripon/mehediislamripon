@@ -14,14 +14,14 @@ In the tech community, I try to help people by sharing my knowledge. I love to r
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
-- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Travelling, meetups & tech events.
-- 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- :computer: &nbsp; Most written code line `console.log("hello world");`
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
-- 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
-- 📝 &nbsp; Checkout my [Resume](https://github.com/MehedilslamRipon).
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+-  📰 &nbsp; Reading tech blogs whenever possible.
+-  🍕 &nbsp; Travelling, meetups & tech events.
+-  🚀 &nbsp; I’m currently learning Full Stack Web Development.
+-  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
+-  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
+-  📝 &nbsp; Checkout my [Resume](https://github.com/MehedilslamRipon).
 
 <p><code><a href="https://www.facebook.com/public/mehediislamripon/" rel="nofollow"><img src="https://camo.githubusercontent.com/aa5acc6e1a9c9d65efa3ce1b71c9181704794738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Mehedi Islam Ripon" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;"></a></code>
 <code><a href="https://www.instagram.com/mehediislamripon/" rel="nofollow">
@@ -158,26 +158,27 @@ In the tech community, I try to help people by sharing my knowledge. I love to r
 
 ```javascript
 const mehedi = {
-  name: "Mehedi Islam Ripon",
-  pronouns: "He" | "Him",
-  languageSpoken: ["en_US", "bn_BD"],
-  code: ["Javascript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "photography"],
-  technologies: {
-        web: {
-         frontEnd: ["ReactJS", "NextJS", "Bootstrap", "Tailwind CSS"],
-         backEnd: ["NodeJS", "ExpressJS", "mongoose"],
+   name: 'Mehedi Islam Ripon',
+   pronouns: 'He' | 'Him',
+   languageSpoken: ['en_US', 'bn_BD'],
+   code: ['Javascript', 'HTML', 'CSS'],
+   askMeAbout: ['web dev', 'tech', 'photography'],
+   technologies: {
+      web: {
+         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
+         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
       },
-        databases: ["mongoDB"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    currentFocus: "frontEnd web Development",
-}
+      databases: ['mongoDB'],
+      misc: ['Firebase', 'Socket.IO'],
+   },
+   currentFocus: 'frontEnd web Development',
+};
 ```
 
 ---
 
 ### ☄️ Github Streaks:
+
 <p align="center">
     <img alt="MehedilslamRipon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehedilslamRipon&theme=tokyonight&hide_border=true"/>
 </p>
@@ -192,11 +193,12 @@ const mehedi = {
 ---
 
 ### ⚙️ Things I use to get stuff done:
-- OS: Windows 11, Linux mint (cinnamon)
-- Machine: ASUS VivoBook 15 X512FJ
-- Browser: Brave and Chrome
-- Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
-- Code Editor: VSCode - The best editor out there.
+
+-  OS: Windows 11, Linux mint (cinnamon)
+-  Machine: ASUS VivoBook 15 X512FJ
+-  Browser: Brave and Chrome
+-  Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
+-  Code Editor: VSCode - The best editor out there.
 <details>
   <summary>💻 Typeracer Scorecard:</summary>
 	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="MehedilslamRipon's typeracer Scorecard">
@@ -211,7 +213,8 @@ const mehedi = {
 </details>
   
   ---
-  
+
+
 <p>
 <img alt="MehedilslamRipon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MehedilslamRipon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
