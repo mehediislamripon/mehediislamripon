@@ -4,9 +4,9 @@
 
 ### Glad to see you here! :octocat:
 
-I'm a **Full-stack Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have two years of experience in Web Design and Development.
-I live in <a href="https://goo.gl/maps/Z5vs4t8646kmjCQv9"> Dinajpur, Bangladesh </a>. I am currently studying at <a href="http://www.api.edu.bd/"> Aptouch Polytechnic Institute, Dinajpur </a> in Computer Technology. Before completed SSC from <a href="http://www.cheradangihighschool.edu.bd/"> Cheradangi High School </a>.
-In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
+I'm a **Front-end Developer**. An enthusiast of technology always enjoys coding and likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. My experience in web development spans two years.
+I live in Dhaka, Bangladesh. I am currently studying Computer Science & Engineering (CSE) at <a href="https://diu.ac/"> Dhaka International University</a>. I completed my Diploma in Engineering degree from <a href="http://api.edu.bd/"> Aptouch Polytechnic Institute, Dinajpur</a>.
+I always try to help people in the tech community by sharing my knowledge. I love to read tech articles & play video games during my free time.
 
 ---
 
@@ -213,7 +213,6 @@ const mehedi = {
 </details>
   
   ---
-
 
 <p>
 <img alt="MehedilslamRipon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MehedilslamRipon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
