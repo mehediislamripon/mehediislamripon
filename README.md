@@ -22,7 +22,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/MehedilslamRipon).
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/14LR0qD0snKoeYJyGvcNhK2Y_XDyNOL89/view?usp=drive_link).
 
 <p><code><a href="https://www.facebook.com/public/mehediislamripon/" rel="nofollow"><img src="https://camo.githubusercontent.com/aa5acc6e1a9c9d65efa3ce1b71c9181704794738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Mehedi Islam Ripon" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;"></a></code>
 <code><a href="https://www.instagram.com/mehediislamripon/" rel="nofollow">
