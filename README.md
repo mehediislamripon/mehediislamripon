@@ -1,12 +1,13 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MehedilslamRipon&label=Profile%20views&color=0e75b6&style=flat" alt="MehedilslamRipon" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=MehedilslamRipon&label=Profile%20views&color=0e75b6&style=flat" alt="MehedilslamRipon" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Mehedi Islam Ripon!](https://github.com/MehedilslamRipon/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### Glad to see you here! :octocat:
 
-I'm a **Front-end Developer**. An enthusiast of technology always enjoys coding and likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. My experience in web development spans two years.
-I live in Dhaka, Bangladesh. I am currently studying Computer Science & Engineering (CSE) at <a href="https://diu.ac/"> Dhaka International University</a>. I completed my Diploma in Engineering degree from <a href="http://api.edu.bd/"> Aptouch Polytechnic Institute, Dinajpur</a>.
-I always try to help people in the tech community by sharing my knowledge. I love to read tech articles & play video games during my free time.
+I am a passionate **Software Developer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
+I currently reside in the capital city of Dhaka, Bangladesh. I am pursuing my Bachelor's degree in Computer Science and Engineering from the prestigious Dhaka International University. Previously, I completed my Diploma in Engineering from Aptouch Polytechnic Institute in Dinajpur.
+Beyond my own learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
+My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
 
 ---
 
@@ -59,15 +60,27 @@ I always try to help people in the tech community by sharing my knowledge. I lov
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="Typescript" />
       </a>
-      <br>NodeJS
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -82,30 +95,36 @@ I always try to help people in the tech community by sharing my knowledge. I lov
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Postman
+      <br>TailwindCSS
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+  <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -132,10 +151,10 @@ I always try to help people in the tech community by sharing my knowledge. I lov
       <br>npm
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
-      <br>TailwindCSS
+      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -143,39 +162,8 @@ I always try to help people in the tech community by sharing my knowledge. I lov
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>Photoshop
-    </td>
   </tr>
 </table>
-
----
-
-### :boy: A little more about me:
-
-```javascript
-const mehedi = {
-   name: 'Mehedi Islam Ripon',
-   pronouns: 'He' | 'Him',
-   languageSpoken: ['en_US', 'bn_BD'],
-   code: ['Javascript', 'HTML', 'CSS'],
-   askMeAbout: ['web dev', 'tech', 'photography'],
-   technologies: {
-      web: {
-         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
-         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
-      },
-      databases: ['mongoDB'],
-      misc: ['Firebase', 'Socket.IO'],
-   },
-   currentFocus: 'frontEnd web Development',
-};
-```
-
----
 
 ### ☄️ Github Streaks:
 
@@ -205,15 +193,15 @@ const mehedi = {
 	<br/>
   	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
 </details>
-<details>
+<!-- <details>
   <summary> 🎧 I'm Listening Now:</summary>
 	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="MehedilslamRipon's Spotify status">
 </a>
-</details>
+</details> -->
   
   ---
 
-<p>
+<!-- <p>
 <img alt="MehedilslamRipon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MehedilslamRipon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
+</p> -->
