@@ -24,13 +24,11 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 -  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/14LR0qD0snKoeYJyGvcNhK2Y_XDyNOL89/view?usp=drive_link).
 
-<p><code><a href="https://www.facebook.com/public/mehediislamripon/" rel="nofollow"><img src="https://camo.githubusercontent.com/aa5acc6e1a9c9d65efa3ce1b71c9181704794738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Mehedi Islam Ripon" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;"></a></code>
-<code><a href="https://www.instagram.com/mehediislamripon/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/ae9471b4054c80e23c343e23dbbed89b7cf4edf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d643831623630266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d666666666666" alt="Insta Follow Mehedi Islam Ripon" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=d81b60&amp;logo=instagram&amp;logoColor=ffffff" style="max-width:100%;">
-</a></code>
-<code><a href="https://www.linkedin.com/in/mehedi-islam-ripon/" rel="nofollow"><img src="https://camo.githubusercontent.com/30b1a9002c659b7b7be7d364099a12ca06d7bd1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect Mehedi Islam Ripon" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a></code>
-<code><a href="https://stackoverflow.com/users/10423770/mehedi-islam-ripon"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Mehedi Islam Ripon"></a></code>
-</p>
+&nbsp; &nbsp; &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehedi-islam-ripon/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20From%20Github) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MehediIslam404) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/10423770/mehedi-islam-ripon) &nbsp;
 
 ---
 
