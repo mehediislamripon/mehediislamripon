@@ -22,7 +22,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PhO3SZmTmDoO83PsWVXZnnjoFy_x1q9z/view?usp=drive_link).
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1DO2-52IhDOgjrSsMZUr949KFxjTZ_wdg/view?usp=drive_link).
 
 &nbsp; &nbsp; &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehedi-islam-ripon/) &nbsp;
