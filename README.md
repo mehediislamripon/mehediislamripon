@@ -4,9 +4,9 @@
 
 ### Glad to see you here! :octocat:
 
-I am a passionate **Software Developer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
+I am a passionate **Software Engineer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
 I currently reside in the capital city of Dhaka, Bangladesh. I am pursuing my Bachelor's degree in Computer Science and Engineering from the prestigious Dhaka International University. Previously, I completed my Diploma in Engineering from Aptouch Polytechnic Institute in Dinajpur.
-Beyond my own learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
+Beyond my learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
 My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
 
 ---
