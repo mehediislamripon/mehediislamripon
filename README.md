@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b><br/>
-  Building large scale web products with TypeScript, React &amp; Next.js
+  Building large-scale web products with TypeScript, React, Next.js &amp; Node.js
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 Software Engineer with **4+ years** of experience building enterprise web applications across
 **travel tech (OTA), fintech, food delivery, and CRM**. I specialise in JavaScript, TypeScript,
 React.js and Next.js, with a strong command of SSR/CSR rendering strategies, modern state
-management, clean code and SOLID principles.
+management, clean code, and SOLID principles.
 
-I've shipped production systems end to end, from architecture and API integration through to
+I've shipped production systems end-to-end, from architecture and API integration through to
 deployment and maintenance, for platforms serving hundreds of thousands of users.
 
 - 🏢 &nbsp;Currently a **Software Engineer at [TechnoNext Ltd.](https://technonext.com/)**, working on **US-Bangla Group's** travel tech and fintech products
@@ -77,7 +77,7 @@ Production platforms I've built and shipped:
 | **[Triplover](https://triplover.com/)** | B2B online travel agency for agent partners | **3,500+** travel agents | Next.js · TypeScript · TanStack Query |
 | **[Foodi](https://foodibd.com/)** | Food &amp; grocery delivery platform | **~1M** monthly orders · 1,500+ restaurants · 27 districts | Next.js · TypeScript · Tailwind |
 | **[PocketX](https://pocketx.app/)** | ERP solution architected from the ground up | Sales, purchases, orders &amp; quotations | Next.js · TypeScript · GraphQL |
-| **MaherChat** | WhatsApp CRM with live chat, ticketing, chatbot automation and broadcasts | Real-time messaging via Meta API | React · Socket.IO · React Flow · AG Grid |
+| **MaherChat** | WhatsApp CRM with live chat, ticketing, chatbot automation, and broadcasts | Real-time messaging via Meta API | React · Socket.IO · React Flow · AG Grid |
 
 **Highlights**
 
@@ -96,7 +96,7 @@ Production platforms I've built and shipped:
 | **[Real-Time-Chat-Application](https://github.com/mehediislamripon/Real-Time-Chat-Application)** ⭐ | Modern real-time chat built with Express.js, Socket.IO and TypeScript |
 | **[Problem-solving-with-JavaScript](https://github.com/mehediislamripon/Problem-solving-with-JavaScript)** | A collection of notable JavaScript problems and solutions |
 | **[Uptime-Monitoring-API](https://github.com/mehediislamripon/Uptime-Monitoring-API)** | Uptime monitoring API written in raw Node.js, with no frameworks |
-| **[Typing-Game-JS](https://github.com/mehediislamripon/Typing-Game-JS)** | A small typing game in vanilla HTML, CSS and JavaScript |
+| **[Typing-Game-JS](https://github.com/mehediislamripon/Typing-Game-JS)** | A small typing game in vanilla HTML, CSS, and JavaScript |
 
 > 📂 &nbsp;More on my **[repositories page](https://github.com/mehediislamripon?tab=repositories)**.
 
