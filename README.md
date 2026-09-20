@@ -1,80 +1,142 @@
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=mehediislamripon&label=Profile%20views&color=0e75b6&style=flat" alt="mehediislamripon" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
-
-## Hey!, I'm [Mehedi Islam Ripon!](https://github.com/mehediislamripon/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-
-### Glad to see you here! :octocat:
-
-I am a passionate **Software Engineer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
-I currently reside in the capital city of Dhaka, Bangladesh. I am pursuing my Bachelor's degree in Computer Science and Engineering from the prestigious Dhaka International University. Previously, I completed my Diploma in Engineering from Aptouch Polytechnic Institute in Dinajpur.
-Beyond my learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
-My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
-
----
-
-### :blush: Talking about Personal Stuffs:
-
-<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/mehediislamripon/mehediislamripon/main/img/MehediIslamRipon.gif" />
-
--  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
--  📰 &nbsp; Reading tech blogs whenever possible.
--  🍕 &nbsp; Travelling, meetups & tech events.
--  🚀 &nbsp; I’m currently learning Full Stack Web Development.
--  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mehediislamripon).
--  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1DO2-52IhDOgjrSsMZUr949KFxjTZ_wdg/view?usp=drive_link).
-
-&nbsp; &nbsp; &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehedi-islam-ripon/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20From%20Github) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MehediIslam404) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/10423770/mehedi-islam-ripon) &nbsp;
-
----
-
-### :dart: Languages and Tools:
-
-> Tools, languages, and other things that I like to work with.
-
-[![HTML, CSS, Javascrpt, Typescript, C#, GraphQL, React.js, Next.js, Bootstrap, TailwindCSS, MaterialUI, Styledcomponents, Redux, Node.js, MongoDB, Express.js, Pug, Git, Github, Powershell, VScode, Photoshop, Figma, Postman, Markdown, Vercel, Linux](https://skillicons.dev/icons?i=html,css,js,ts,cs,graphql,react,next,bootstrap,tailwind,materialui,styledcomponents,redux,nodejs,mongo,express,pug,git,github,powershell,vscode,ps,figma,postman,md,vercel,linux,)](https://github.com/mehediislamripon)
-
-### ☄️ Github Streaks:
+<h1 align="center">Hi, I'm Mehedi Islam Ripon 👋</h1>
 
 <p align="center">
-    <img alt="mehediislamripon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehediislamripon&theme=tokyonight&hide_border=true"/>
+  <b>Software Engineer</b><br/>
+  Building large scale web products with TypeScript, React &amp; Next.js
 </p>
 
-### ⚡ Github Stats:
-
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mehediislamripon&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediislamripon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mehediislamripon's stats"/>
+  <a href="https://mehediislamripon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/mehediislamripon/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20from%20GitHub"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://stackoverflow.com/users/10423770/mehedi-islam-ripon"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
 
 ---
 
-### ⚙️ Things I use to get stuff done:
+## 👨‍💻 About me
 
--  OS: Windows 11, Linux mint (cinnamon)
--  Machine: ASUS VivoBook 15 X512FJ
--  Browser: Brave and Chrome
--  Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
--  Code Editor: VSCode - The best editor out there.
-<details>
-  <summary>💻 Typeracer Scorecard:</summary>
-	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="mehediislamripon's typeracer Scorecard">
-	<br/>
-  	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
-</details>
-<!-- <details>
-  <summary> 🎧 I'm Listening Now:</summary>
-	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="mehediislamripon's Spotify status">
-</a>
-</details> -->
-  
-  ---
+<img align="right" height="220" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/mehediislamripon/mehediislamripon/main/img/MehediIslamRipon.gif" />
 
-<!-- <p>
-<img alt="mehediislamripon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mehediislamripon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p> -->
+Software Engineer with **4+ years** of experience building enterprise web applications across
+**travel tech (OTA), fintech, food delivery, and CRM**. I specialise in JavaScript, TypeScript,
+React.js and Next.js, with a strong command of SSR/CSR rendering strategies, modern state
+management, clean code and SOLID principles.
+
+I've shipped production systems end to end, from architecture and API integration through to
+deployment and maintenance, for platforms serving hundreds of thousands of users.
+
+- 🏢 &nbsp;Currently a **Software Engineer at [TechnoNext Ltd.](https://technonext.com/)**, working on **US-Bangla Group's** travel tech and fintech products
+- 🌍 &nbsp;Based in **Dhaka, Bangladesh**. Open to remote and onsite opportunities
+- 🎓 &nbsp;**B.Sc. in Computer Science &amp; Engineering**, Dhaka International University (2025)
+- 🧩 &nbsp;Into design systems, rendering performance and developer experience
+- 🌐 &nbsp;Portfolio: **[mehediislamripon.vercel.app](https://mehediislamripon.vercel.app/)**
+- 📄 &nbsp;**[View my résumé →](https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing)**
+- 💬 &nbsp;Reach me at **mehediislamripon@gmail.com**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+
+[![TypeScript, JavaScript, HTML5, CSS3](https://skillicons.dev/icons?i=ts,js,html,css)](#)
+
+**Frontend**
+
+[![React, Next.js, Redux, TailwindCSS, Bootstrap, Material UI, Styled Components](https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,materialui,styledcomponents)](#)
+
+**Backend &amp; Data**
+
+[![Node.js, Express, MongoDB, PostgreSQL, GraphQL](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql)](#)
+
+**DevOps &amp; Tooling**
+
+[![Git, GitHub, Nginx, Linux, Vercel, VS Code, Postman, Figma](https://skillicons.dev/icons?i=git,github,nginx,linux,vercel,vscode,postman,figma)](#)
+
+<table>
+<tr><td><b>Also working with</b></td><td>TanStack Query · Socket.IO · React Flow · AG Grid · Axios · Context API · JWT Auth · REST</td></tr>
+<tr><td><b>Rendering &amp; performance</b></td><td>SSR · CSR · Code splitting · Caching · SEO</td></tr>
+<tr><td><b>Practices</b></td><td>Clean Code · SOLID · Agile / Scrum · Code review</td></tr>
+<tr><td><b>Infrastructure</b></td><td>DigitalOcean · Nginx · PM2</td></tr>
+</table>
+
+---
+
+## 🚀 Featured work
+
+Production platforms I've built and shipped:
+
+| Project | What it is | Scale | Stack |
+| :-- | :-- | :-- | :-- |
+| **[Paynext](https://paynext.com.bd/)** | Payment System Operator platform licensed by Bangladesh Bank, with admin &amp; merchant panels plus customer checkout | Link payments, embedded checkout, settlements &amp; audit trails | Next.js · TypeScript · Tailwind · REST |
+| **[Firsttrip](https://firsttrip.com/)** | B2C online travel agency for flights, hotels and visa assistance | **260K+** monthly visitors | Next.js · TypeScript · Tailwind · SSR |
+| **[Triplover](https://triplover.com/)** | B2B online travel agency for agent partners | **3,500+** travel agents | Next.js · TypeScript · TanStack Query |
+| **[Foodi](https://foodibd.com/)** | Food &amp; grocery delivery platform | **~1M** monthly orders · 1,500+ restaurants · 27 districts | Next.js · TypeScript · Tailwind |
+| **[PocketX](https://pocketx.app/)** | ERP solution architected from the ground up | Sales, purchases, orders &amp; quotations | Next.js · TypeScript · GraphQL |
+| **MaherChat** | WhatsApp CRM with live chat, ticketing, chatbot automation and broadcasts | Real-time messaging via Meta API | React · Socket.IO · React Flow · AG Grid |
+
+**Highlights**
+
+- 🔐 Implemented full authentication, **role-based access control** and SSO across fintech admin and merchant panels
+- ⚡ Improved page speed by **60%** on a lightweight ERP, and cut load times **40%** by modernising front-end architecture
+- 💳 Integrated **Stripe** into a WhatsApp CRM with a complete payment-history audit trail
+- 🚢 Deployed and maintained staging and production environments on **DigitalOcean** (Nginx, Node.js, PM2)
+- 👀 Review teammates' code to uphold quality and best practices
+
+---
+
+## 📌 Open source &amp; side projects
+
+| Repository | Description |
+| :-- | :-- |
+| **[Real-Time-Chat-Application](https://github.com/mehediislamripon/Real-Time-Chat-Application)** ⭐ | Modern real-time chat built with Express.js, Socket.IO and TypeScript |
+| **[Problem-solving-with-JavaScript](https://github.com/mehediislamripon/Problem-solving-with-JavaScript)** | A collection of notable JavaScript problems and solutions |
+| **[Uptime-Monitoring-API](https://github.com/mehediislamripon/Uptime-Monitoring-API)** | Uptime monitoring API written in raw Node.js, with no frameworks |
+| **[Typing-Game-JS](https://github.com/mehediislamripon/Typing-Game-JS)** | A small typing game in vanilla HTML, CSS and JavaScript |
+
+> 📂 &nbsp;More on my **[repositories page](https://github.com/mehediislamripon?tab=repositories)**.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| Software Engineer | **TechnoNext Ltd.** (US-Bangla Group) | Dec 2024 – Present |
+| React.js Developer | **Bdtask Limited** | Jan 2024 – Nov 2024 |
+| Junior Software Engineer | **Xeon Technology Limited** | Sep 2022 – Dec 2023 |
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img alt="Mehedi's GitHub streak" src="https://streak-stats.demolab.com/?user=mehediislamripon&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehediislamripon&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehediislamripon&theme=tokyonight" />
+  <img width="49%" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehediislamripon&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>Open to collaborating on interesting web projects and to new opportunities.</b><br/>
+  <a href="https://mehediislamripon.vercel.app/">Portfolio</a> ·
+  <a href="mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20from%20GitHub">mehediislamripon@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/mehediislamripon/">LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing">Résumé</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehediislamripon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
