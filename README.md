@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mehediislamripon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mehediislamripon.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/mehediislamripon/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20from%20GitHub"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -31,7 +31,7 @@ deployment and maintenance, for platforms serving hundreds of thousands of users
 - 🌍 &nbsp;Based in **Dhaka, Bangladesh**. Open to remote and onsite opportunities
 - 🎓 &nbsp;**B.Sc. in Computer Science &amp; Engineering**, Dhaka International University (2025)
 - 🧩 &nbsp;Into design systems, rendering performance and developer experience
-- 🌐 &nbsp;Portfolio: **[mehediislamripon.vercel.app](https://mehediislamripon.vercel.app/)**
+- 🌐 &nbsp;Portfolio: **[mehediislamripon.is-a.dev](https://mehediislamripon.is-a.dev/)**
 - 📄 &nbsp;**[View my résumé →](https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing)**
 - 💬 &nbsp;Reach me at **mehediislamripon@gmail.com**
 
@@ -131,7 +131,7 @@ Production platforms I've built and shipped:
 
 <p align="center">
   <b>Open to collaborating on interesting web projects and to new opportunities.</b><br/>
-  <a href="https://mehediislamripon.vercel.app/">Portfolio</a> ·
+  <a href="https://mehediislamripon.is-a.dev/">Portfolio</a> ·
   <a href="mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20from%20GitHub">mehediislamripon@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/mehediislamripon/">LinkedIn</a> ·
   <a href="https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing">Résumé</a>
