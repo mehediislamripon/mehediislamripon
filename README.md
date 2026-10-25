@@ -10,7 +10,6 @@
   <a href="https://drive.google.com/file/d/1o11O3P4HMP_PcnV477pmNVgR69uaL6xp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/mehediislamripon/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mehediislamripon@gmail.com?subject=Hello%20Mehedi,%20from%20GitHub"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://stackoverflow.com/users/10423770/mehedi-islam-ripon"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
 
 ---
@@ -107,7 +106,7 @@ Production platforms I've built and shipped:
 | Role | Company | Period |
 | :-- | :-- | :-- |
 | Software Engineer | **TechnoNext Ltd.** (US-Bangla Group) | Dec 2024 – Present |
-| React.js Developer | **Bdtask Limited** | Jan 2024 – Nov 2024 |
+| Software Developer | **Bdtask Limited** | Jan 2024 – Nov 2024 |
 | Junior Software Engineer | **Xeon Technology Limited** | Sep 2022 – Dec 2023 |
 
 ---
